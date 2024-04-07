@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron Siu
-- 👀 I’m interested in Coding and Learning new coding languages
-- 🌱 I’m currently learning Java and simple Python
+- 👀 I’m interested in Coding and gaining work experience/internships
+- 🌱 I’m currently openly looking for internships and jobs
 - 💞️ I’m looking to collaborate on mini projects to expand my knowledge on software
 - 📫 How to reach me - aarons3209@gmail.com
